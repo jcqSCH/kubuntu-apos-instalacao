@@ -1,7 +1,8 @@
 # Kubuntu 18.04.3 LTS
 
-**VSCode .deb package:** [https://code.visualstudio.com/download](https://code.visualstudio.com/download) <br/>
-**Spotify .deb package:** [https://www.spotify.com/br/download/linux/](https://www.spotify.com/br/download/linux/) <br/><br/>
+**VSCode:** [https://code.visualstudio.com/download](https://code.visualstudio.com/download) <br/>
+**Spotify:** [https://www.spotify.com/br/download/linux/](https://www.spotify.com/br/download/linux/) <br/>
+**Google Chrome:** [https://www.google.com/chrome/browser/desktop/](https://www.google.com/chrome/browser/desktop/) <br/><br/>
 
 	sudo apt-get update && 
 
