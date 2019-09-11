@@ -77,6 +77,8 @@ Baixar temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
 #### 3.3 – Barra Superior:
 >**Ordem:** Menu de Aplicativos, Gerenciador de Tarefas com Ícones, Lixeira, Área de Notificação, Bloquear/Encerrar, Relógio, Área de Trabalho
 
+<br/>
+
 #### 3.4 – Spotify:
 	sudo kate /usr/share/applications/spotify.desktop
 >**Substituir:** Exec=spotify %U <br/>
