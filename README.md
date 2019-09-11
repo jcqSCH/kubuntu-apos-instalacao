@@ -1,6 +1,6 @@
 # Kubuntu (18.04.3 LTS)
 
-Lista de comandos para executar após a instalação do Kubuntu (testado na versão 18.04.3 LTS). <br/><br/>
+Lista de comandos para executar após a instalação do sistema operacional (testado na versão Kubuntu 18.04.3 LTS). <br/><br/>
 
 ## Pacotes .Deb
 **VSCode:** https://code.visualstudio.com/download <br/>
