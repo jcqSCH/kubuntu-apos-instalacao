@@ -81,4 +81,4 @@ Versão testada: Kubuntu 18.04.3 LTS
 
 #### 4.3 – Conferir o driver de vídeo instalado:
 	lspci -k | grep -EA3 'VGA|3D|Display'
-> O comando `VGA|3D|Display` busca as instalações dos respectivos drivers (INTEL | NVIDIA | AMD), se existirem.
+> O comando `VGA|3D|Display` busca as instalações dos respectivos drivers `INTEL | NVIDIA | AMD`, se existirem.
