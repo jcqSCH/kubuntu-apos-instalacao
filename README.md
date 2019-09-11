@@ -1,6 +1,7 @@
 # Kubuntu
 
-**VSCODE download .deb package:** [https://code.visualstudio.com/docs/?dv=linux64_deb](https://code.visualstudio.com/docs/?dv=linux64_deb)
+**VSCODE download .deb package:** [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+
 
 	sudo apt-get update && 
 
