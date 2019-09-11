@@ -53,7 +53,7 @@ Versão testada: Kubuntu 18.04.3 LTS
 |  Configurações   |             …             |
 |       ---        |            ---            |
 |  Geral:          |  Segoe WP 14              |
-|  Largura fixa:   |  Courier 10 pitch 16      |
+|  Largura fixa:   |  Courier 10 Pitch 16      |
 |  Pequena:        |  Segoe WP 13              |
 |  Barra:          |  Segoe WP 13              |
 |  Menu:           |  Segoe WP 14              |
