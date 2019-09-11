@@ -1,6 +1,6 @@
 # KUBUNTU
 
-Lista de aplicações para instalar logo após formatação, testado na versão Kubuntu 18.04.3 LTS. <br/><br/>
+Lista de aplicações para instalar após a formatação do computador, testado na versão Kubuntu 18.04.3 LTS. <br/><br/>
 
 ## 1 ➜ PACOTES .DEB
 **VSCode:** https://code.visualstudio.com/download <br/>
