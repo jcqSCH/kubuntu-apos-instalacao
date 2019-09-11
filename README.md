@@ -1,4 +1,4 @@
-# KUBUNTU ➜ APÓS A INSTALAÇÃO
+# KUBUNTU
 
 Lista de aplicações para instalar logo após formatação, testado na versão Kubuntu 18.04.3 LTS. <br/><br/>
 
