@@ -30,7 +30,6 @@
 	sudo apt-get install qbittorrent -y && 
 	sudo apt-get install inkscape -y && 
 
---
 
 # Comandos concatenados
 
