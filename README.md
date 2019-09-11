@@ -47,7 +47,7 @@ Versão testada: Kubuntu 18.04.3 LTS
 <br/>
 
 ## 3 ➜ CONFIGURAÇÕES
-#### 3.1 – Plank
+#### 3.1 – Plank:
 Baixar temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
 
 |  Configurações   |             …             |
@@ -73,6 +73,11 @@ Baixar temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
 |  Anti-aliasing   | Habilitado, RGB, Leve     |
 
 <br/>
+
+#### 3.3 – Spotify:
+	sudo kate /usr/share/applications/spotify.desktop
+>**Substituir:** Exec=spotify %U
+>**Por:** Exec=spotify %U --force-device-scale-factor=1.25
 
 ## 4 ➜ DICAS
 
