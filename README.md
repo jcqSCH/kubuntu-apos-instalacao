@@ -7,6 +7,8 @@ Lista de comandos unificados para executar após a instalação do Kubuntu. <br/
 **Spotify:** https://www.spotify.com/br/download/linux/ <br/>
 **Google Chrome:** https://www.google.com/chrome/browser/desktop/ <br/><br/>
 
+
+## Comandos no terminal
 	sudo apt-get update && 
 
 	sudo apt-get install kde-l10n-ptbr -y && 
