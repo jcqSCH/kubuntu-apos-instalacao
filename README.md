@@ -51,10 +51,11 @@ Lista de aplicações para instalar logo após formatação, testado na versão 
 
 |  Configurações   | - |
 |       ---        |       ---                 |
-|  geral:          |  segoe WP 14              |
-|  largura fixa:   |  courier 10 pitch 16      |
-|  pequena:        |  segoe WP 13              |
-|  barra:          |  segoe WP 13              |
-|  menu:           |  segoe WP 14              |
-|  título:         |  segoe WP 14 ( negrito )  |
-
+|  Geral:          |  Segoe WP 14              |
+|  Largura fixa:   |  Courier 10 pitch 16      |
+|  Pequena:        |  Segoe WP 13              |
+|  Barra:          |  Segoe WP 13              |
+|  Menu:           |  Segoe WP 14              |
+|  Título:         |  Segoe WP 14 ( negrito )  |
+|       ---        |       ---                 |
+|  Configurações   | - |
