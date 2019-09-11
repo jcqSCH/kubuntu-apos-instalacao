@@ -49,7 +49,7 @@ Versão testada: Kubuntu 18.04.3 LTS
 <br/>
 
 ## 3 ➜ CONFIGURAÇÕES
-#### 3.1 – Plank:
+### 3.1 – Plank:
 Baixar temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
 
 |  Configurações   |             …             |
@@ -62,7 +62,7 @@ Baixar temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
 
 <br/>
 
-#### 3.2 – Fontes do Sistema:
+### 3.2 – Fontes do Sistema:
 |  Configurações   |             …             |
 |       ---        |            ---            |
 |  Geral:          |  Segoe WP 14              |
@@ -76,26 +76,26 @@ Baixar temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
 
 <br/>
 
-#### 3.3 – Barra Superior:
+### 3.3 – Barra Superior:
 >**Ordem:** Menu de Aplicativos, Gerenciador de Tarefas com Ícones, Lixeira, Área de Notificação, Bloquear/Encerrar, Relógio, Área de Trabalho
 
 <br/>
 
-#### 3.4 – Spotify:
+### 3.4 – Spotify:
 	sudo kate /usr/share/applications/spotify.desktop
 >**Substituir:** Exec=spotify %U <br/>
 >**Por:** Exec=spotify %U --force-device-scale-factor=1.25
 
 <br/>
 
-#### 3.5 – Firefox:
+### 3.5 – Firefox:
 	about:config
 >**Substituir:** layout.css.devPixelsPerPx; 1 <br/>
 >**Por:** layout.css.devPixelsPerPx; 1.25
 
 <br/>
 
-#### 3.6 – Google Chrome:
+### 3.6 – Google Chrome:
 	sudo kate /usr/share/applications/google-chrome.desktop
 >**Substituir:** Exec=/usr/bin/google-chrome-stable %U <br/>
 >**Por:** Exec=/usr/bin/google-chrome-stable --force-device-scale-factor=1.175 %U
