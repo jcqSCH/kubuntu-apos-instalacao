@@ -59,14 +59,14 @@ Lista de aplicações para instalar após a formatação do computador. Testado 
 
 ## 4 ➜ DICAS
 
-#### 4.1 Desmontar a partição do Windows estando logado no Kubuntu:
+#### 4.1 — Desmontar a partição do Windows estando logado no Kubuntu:
 	mount -o ro /dev/sda2
 > Edite a parte `sda2` no comando acima se essa não for a partição em que seu Windows está instalado.
 - Fonte: http://askubuntu.com/questions/335909/error-mounting-dev-sda2-at-media
 
 <br/>
 
-#### 4.2 Corrigir bug da lixeira que não permite excluir os arquivos:
+#### 4.2 — Corrigir bug da lixeira que não permite excluir os arquivos:
 	sudo chown -R "$USER" ~/.local/share/Trash
 > Edite a parte `"$USER"` no comando acima e digite o seu nome de usuário no Kubuntu (sem aspas).
 - Fonte: http://askubuntu.com/questions/288513/cant-move-files-to-the-trash
