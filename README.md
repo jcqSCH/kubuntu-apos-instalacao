@@ -74,36 +74,50 @@ Baixar temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
 
 <br/>
 
-#### 3.3 – Spotify:
+#### 3.3 – Barra Superior:
+>**Ordem:** Menu de Aplicativos, Gerenciador de Tarefas com Ícones, Lixeira, Área de Notificação, Bloquear/Encerrar, Relógio, Área de Trabalho
+
+#### 3.4 – Spotify:
 	sudo kate /usr/share/applications/spotify.desktop
 >**Substituir:** Exec=spotify %U <br/>
 >**Por:** Exec=spotify %U --force-device-scale-factor=1.25
 
 <br/>
 
-#### 3.4 – Firefox:
+#### 3.5 – Firefox:
 	about:config
 >**Substituir:** layout.css.devPixelsPerPx; 1 <br/>
 >**Por:** layout.css.devPixelsPerPx; 1.25
 
 <br/>
 
+#### 3.6 – Google Chrome:
+	sudo kate /usr/share/applications/google-chrome.desktop
+>**Substituir:** Exec=/usr/bin/google-chrome-stable %U <br/>
+>**Por:** Exec=/usr/bin/google-chrome-stable --force-device-scale-factor=1.175 %U
+
+<br/>
+
 ## 4 ➜ DICAS
 
-#### 4.1 – Desmontar a partição do Windows estando logado no Kubuntu:
+#### 4.1 – Abrir pastas como Administrador:
+	kdesudo dolphin /usr/share/icons
+> Edite a parte `/usr/share/icons` no comando acima, caso queira acessar outro diretório.
+
+#### 4.2 – Desmontar a partição do Windows estando logado no Kubuntu:
 	mount -o ro /dev/sda2
 > Edite a parte `sda2` no comando acima se essa não for a partição em que seu Windows está instalado.
 - Fonte: http://askubuntu.com/questions/335909/error-mounting-dev-sda2-at-media
 
 <br/>
 
-#### 4.2 – Corrigir bug da lixeira que não permite excluir arquivos:
-	sudo chown -R “$USER” ~/.local/share/Trash
-> Edite a parte `“$USER”` no comando acima e digite o seu nome de usuário no Kubuntu (sem aspas).
-- Fonte: http://askubuntu.com/questions/288513/cant-move-files-to-the-trash
-
-<br/>
-
 #### 4.3 – Conferir o driver de vídeo instalado:
 	lspci -k | grep -EA3 'VGA|3D|Display'
 > O comando `VGA|3D|Display` busca as instalações dos respectivos drivers `INTEL|NVIDIA|AMD`, se existirem.
+
+<br/>
+
+#### 4.4 – Corrigir bug da lixeira que não permite excluir arquivos:
+	sudo chown -R “$USER” ~/.local/share/Trash
+> Edite a parte `“$USER”` no comando acima e digite o seu nome de usuário no Kubuntu (sem aspas).
+- Fonte: http://askubuntu.com/questions/288513/cant-move-files-to-the-trash
