@@ -68,5 +68,5 @@ Lista de aplicações para instalar após a formatação do computador. Testado 
 
 #### Corrigir bug da lixeira que não permite excluir os arquivos:
 	sudo chown -R "$USER" ~/.local/share/Trash
-> Edite a parte `"$USER"` no comando acima e digite o seu nome de usuário no Kubuntu. Não deve conter as aspas.
+> Edite a parte `"$USER"` no comando acima e digite o seu nome de usuário no Kubuntu (sem aspas).
 - Fonte: http://askubuntu.com/questions/288513/cant-move-files-to-the-trash
