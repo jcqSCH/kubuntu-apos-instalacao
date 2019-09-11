@@ -44,8 +44,7 @@ Versão testada: Kubuntu 18.04.3 LTS
 	sudo apt-get install smplayer smplayer-themes smplayer-skins -y && 
 	sudo apt-get install mpv -y
 
-> Basta copiar todas as linhas de comando acima e juntá-las em uma única linha no Sublime Text ou VS Code com o atalho `CTRL + J`.
-> Assim será possível executar todos comandos de uma só vez no terminal.
+> Basta copiar todas as linhas de comando acima e juntá-las em uma única linha no Sublime Text ou VS Code com o atalho `CTRL + J`. Assim será possível colocar para rodar todos comandos de uma só vez no terminal.
 
 <br/>
 
