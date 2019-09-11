@@ -43,7 +43,7 @@ Versão testada: Kubuntu 18.04.3 LTS
 	sudo apt-get install qbittorrent -y && 
 	sudo apt-get install inkscape -y && 
 	sudo apt-get install smplayer smplayer-themes smplayer-skins -y && 
-	sudo apt-get install mpv -y && 
+	sudo apt-get install mpv -y
 
 <br/>
 
