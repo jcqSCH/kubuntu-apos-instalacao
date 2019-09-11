@@ -38,7 +38,7 @@ Versão testada: Kubuntu 18.04.3 LTS
 	sudo apt-get install grub-customizer -y && 
 	sudo apt-get install systemback -y && 
 	sudo apt-get install plank -y && 
-	sudo apt-get install numix-kde-theme numix-icon-theme-circle -y && 
+	sudo apt-get install numix-kde-theme numix-icon-theme-circle numix-icon-theme-square -y && 
 	sudo apt-get install qbittorrent -y && 
 	sudo apt-get install inkscape -y && 
 	sudo apt-get install smplayer smplayer-themes smplayer-skins -y && 
