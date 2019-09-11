@@ -1,5 +1,8 @@
 # Kubuntu (18.04.3 LTS)
 
+Lista de comandos unificados para executar após a instalação do Kubuntu.
+
+## .Deb Packages
 **VSCode:** https://code.visualstudio.com/download <br/>
 **Spotify:** https://www.spotify.com/br/download/linux/ <br/>
 **Google Chrome:** https://www.google.com/chrome/browser/desktop/ <br/><br/>
