@@ -79,6 +79,15 @@ Baixar temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
 >**Substituir:** Exec=spotify %U <br/>
 >**Por:** Exec=spotify %U --force-device-scale-factor=1.25
 
+<br/>
+
+#### 3.4 – Firefox:
+	about:config
+>**Substituir:** layout.css.devPixelsPerPx; 1 <br/>
+>**Por:** layout.css.devPixelsPerPx; 1.25
+
+<br/>
+
 ## 4 ➜ DICAS
 
 #### 4.1 – Desmontar a partição do Windows estando logado no Kubuntu:
