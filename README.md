@@ -38,14 +38,14 @@ Lista de aplicações para instalar logo após formatação, testado na versão 
 ## Configurações
 • PLANK: https://github.com/KenHarkey/plank-themes/archive/master.zip
 
-#### Fontes do Sistema: <br/><br/>
-|  Configurações   | - |
-|       ---        |       ---                 |
+#### Fontes do Sistema:
+|  Configurações   |                           |
+|       ---        |            ---            |
 |  Geral:          |  Segoe WP 14              |
 |  Largura fixa:   |  Courier 10 pitch 16      |
 |  Pequena:        |  Segoe WP 13              |
 |  Barra:          |  Segoe WP 13              |
 |  Menu:           |  Segoe WP 14              |
 |  Título:         |  Segoe WP 14 ( negrito )  |
-|        -         |              -            |
+|                  |                           |
 |  Anti-aliasing   | Habilitado, RGB, Leve     |
