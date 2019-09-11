@@ -5,8 +5,9 @@ Lista de aplicações para instalar após a formatação do computador, testado 
 ## 1 ➜ PACOTES .DEB OU SNAP
 **VSCode:** https://code.visualstudio.com/download/ <br/>
 **Spotify:** https://www.spotify.com/br/download/linux/ <br/>
-**Google Chrome:** https://www.google.com/chrome/browser/desktop/ <br/><br/>
+**Google Chrome:** https://www.google.com/chrome/browser/desktop/
 
+<br/>
 
 ## 2 ➜ COMANDOS NO TERMINAL
 	sudo apt-get update && 
@@ -35,7 +36,7 @@ Lista de aplicações para instalar após a formatação do computador, testado 
 	sudo apt-get install qbittorrent -y && 
 	sudo apt-get install inkscape -y && 
 
-<br/><br/>
+<br/>
 
 ## 3 ➜ CONFIGURAÇÕES
 #### Plank temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
@@ -52,7 +53,7 @@ Lista de aplicações para instalar após a formatação do computador, testado 
 |        …         |             …             |
 |  Anti-aliasing   | Habilitado, RGB, Leve     |
 
-<br/><br/>
+<br/>
 
 ## 4 ➜ DICAS
 
