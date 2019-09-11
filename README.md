@@ -77,6 +77,7 @@ Baixar temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
 #### 3.3 – Spotify:
 	sudo kate /usr/share/applications/spotify.desktop
 >**Substituir:** Exec=spotify %U
+<br/>
 >**Por:** Exec=spotify %U --force-device-scale-factor=1.25
 
 ## 4 ➜ DICAS
