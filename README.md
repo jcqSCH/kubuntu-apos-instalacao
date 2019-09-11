@@ -1,7 +1,7 @@
 # KUBUNTU
 
 Lista de aplicações para instalar após a formatação do computador. <br/>
-**Versão testada:** Kubuntu 18.04.3 LTS
+**Versão testada: Kubuntu 18.04.3 LTS**
 
 <br/>
 
