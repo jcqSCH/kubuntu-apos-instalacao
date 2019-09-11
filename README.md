@@ -30,7 +30,5 @@
 	sudo apt-get install qbittorrent -y && 
 	sudo apt-get install inkscape -y && 
 
-
-# Comandos concatenados
-
-	sudo add-apt-repository ppa:danielrichter2007/grub-customizer -y && sudo apt-get update && sudo apt-get install grub-customizer -y
+# Configs
+• PLANK: https://github.com/KenHarkey/plank-themes/archive/master.zip
