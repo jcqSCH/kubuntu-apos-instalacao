@@ -35,6 +35,8 @@ Lista de aplicações para instalar após a formatação do computador, testado 
 	sudo apt-get install qbittorrent -y && 
 	sudo apt-get install inkscape -y && 
 
+<br/><br/>
+
 ## 3 ➜ CONFIGURAÇÕES
 #### Plank temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
 
@@ -50,7 +52,9 @@ Lista de aplicações para instalar após a formatação do computador, testado 
 |        …         |             …             |
 |  Anti-aliasing   | Habilitado, RGB, Leve     |
 
-## 4 DICAS
+<br/><br/>
+
+## 4 ➜ DICAS
 
 #### Para desmontar a partição do Windows no Ubuntu:
 > mount -o ro /dev/sda2
