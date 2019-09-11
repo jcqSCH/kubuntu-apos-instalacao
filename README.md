@@ -1,14 +1,14 @@
-# Kubuntu
+# KUBUNTU
 
 Lista de aplicações para instalar logo após formatação, testado na versão Kubuntu 18.04.3 LTS. <br/><br/>
 
-## Pacotes .Deb
+## PACOTES .DEB
 **VSCode:** https://code.visualstudio.com/download <br/>
 **Spotify:** https://www.spotify.com/br/download/linux/ <br/>
 **Google Chrome:** https://www.google.com/chrome/browser/desktop/ <br/><br/>
 
 
-## Comandos no terminal
+## COMANDOS NO TERMINAL
 	sudo apt-get update && 
 
 	sudo apt-get install kde-l10n-ptbr -y && 
@@ -35,8 +35,8 @@ Lista de aplicações para instalar logo após formatação, testado na versão 
 	sudo apt-get install qbittorrent -y && 
 	sudo apt-get install inkscape -y && 
 
-## Configurações
-• PLANK: https://github.com/KenHarkey/plank-themes/archive/master.zip
+## CONFIGURAÇÕES
+#### Plank temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
 
 #### Fontes do Sistema:
 |  Configurações   |             …             |
