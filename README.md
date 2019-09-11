@@ -38,7 +38,7 @@ Lista de aplicações para instalar logo após formatação, testado na versão 
 ## Configurações
 • PLANK: https://github.com/KenHarkey/plank-themes/archive/master.zip
 
-**VSCode:** <br/><br/>
+#### Fontes do Sistema: <br/><br/>
 |  Configurações   | - |
 |       ---        |       ---                 |
 |  Geral:          |  Segoe WP 14              |
