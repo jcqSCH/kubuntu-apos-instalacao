@@ -47,9 +47,13 @@ Versão testada: Kubuntu 18.04.3 LTS
 <br/>
 
 ## 3 ➜ CONFIGURAÇÕES
-#### Plank temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
+#### 3.1 – Plank
+• Baixar temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
+|  Configurações   |             …             |
+|       ---        |            ---            |
+|  Geral:          |  Segoe WP 14              |
 
-#### Fontes do Sistema:
+#### 3.2 – Fontes do Sistema:
 |  Configurações   |             …             |
 |       ---        |            ---            |
 |  Geral:          |  Segoe WP 14              |
