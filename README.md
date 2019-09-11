@@ -57,11 +57,11 @@ Lista de aplicações para instalar após a formatação do computador, testado 
 
 ## 4 ➜ DICAS
 
-#### Para desmontar a partição do Windows no Ubuntu:
+#### Para desmontar a partição do Windows no Kubuntu:
 	mount -o ro /dev/sda2
-(A parte `sda2` talvez mude no seu computador se essa não for a partição em que está o Windows)
+> A parte `sda2` talvez mude no seu computador se essa não for a partição em que está o Windows
 
-> FONTE: http://askubuntu.com/questions/335909/error-mounting-dev-sda2-at-media
+- FONTE: http://askubuntu.com/questions/335909/error-mounting-dev-sda2-at-media
 
 <br/>
 
