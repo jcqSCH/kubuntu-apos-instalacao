@@ -1,8 +1,6 @@
 # Kubuntu
 
-- **VSCode .deb package:** [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
-- **Spotify .deb package:** [https://www.spotify.com/br/download/linux/](https://www.spotify.com/br/download/linux/)
-
+**VSCode .deb package:** [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
 	sudo apt-get update && 
 
@@ -30,3 +28,4 @@
 	sudo apt-get install qbittorrent -y && 
 	sudo apt-get install inkscape -y && 
 
+**Spotify .deb package:** [https://www.spotify.com/br/download/linux/](https://www.spotify.com/br/download/linux/)
