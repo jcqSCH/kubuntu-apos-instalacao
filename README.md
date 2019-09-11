@@ -1,4 +1,4 @@
-# Kubuntu (18.04.3 LTS)
+# Kubuntu (testado na versão 18.04.3 LTS)
 
 Lista de comandos unificados para executar após a instalação do Kubuntu. <br/><br/>
 
