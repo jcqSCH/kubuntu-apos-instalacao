@@ -1,6 +1,7 @@
 # Kubuntu
 
-**VSCode .deb package:** [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+**VSCode .deb package:** [https://code.visualstudio.com/download](https://code.visualstudio.com/download) <br/>
+**Spotify .deb package:** [https://www.spotify.com/br/download/linux/](https://www.spotify.com/br/download/linux/) <br/>
 
 	sudo apt-get update && 
 
@@ -29,4 +30,4 @@
 	sudo apt-get install inkscape -y && 
 
 
-**Spotify .deb package:** [https://www.spotify.com/br/download/linux/](https://www.spotify.com/br/download/linux/)
+
