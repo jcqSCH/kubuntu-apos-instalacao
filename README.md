@@ -1,5 +1,4 @@
 # KUBUNTU • APÓS FORMATAÇÃO
-
 Lista de tarefas para executar após a instalação do Kubuntu no computador. <br/>
 Versão testada: Kubuntu 18.04.3 LTS
 
@@ -73,9 +72,9 @@ Versão testada: Kubuntu 18.04.3 LTS
 
 <br/>
 
-#### 4.2 — Corrigir bug da lixeira que não permite excluir os arquivos:
+#### 4.2 — Corrigir bug da lixeira que não permite excluir arquivos:
 	sudo chown -R “$USER” ~/.local/share/Trash
-> Edite a parte `“$USER”` no comando acima e digite o seu nome de usuário no Kubuntu (retire as aspas).
+> Edite a parte `“$USER”` no comando acima e digite o seu nome de usuário no Kubuntu (sem aspas).
 - Fonte: http://askubuntu.com/questions/288513/cant-move-files-to-the-trash
 
 <br/>
