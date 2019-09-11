@@ -37,3 +37,14 @@ Lista de aplicações para instalar logo após formatação, testado na versão 
 
 ## Configurações
 • PLANK: https://github.com/KenHarkey/plank-themes/archive/master.zip
+
+• FONTES DO SISTEMA
+> configurações:
+	geral:			segoe WP 14
+	largura fixa:		courier 10 pitch 16
+	pequena:		segoe WP 13
+	barra:			segoe WP 13
+	menu:			segoe WP 14
+	título:			segoe WP 14 ( negrito )
+> anti-aliasing:
+	habilitado, RGB, leve
