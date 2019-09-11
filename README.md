@@ -106,6 +106,8 @@ Baixar temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
 	kdesudo dolphin /usr/share/icons
 > Edite a parte `/usr/share/icons` no comando acima, caso queira acessar outro diretório.
 
+<br/>
+
 #### 4.2 – Desmontar a partição do Windows estando logado no Kubuntu:
 	mount -o ro /dev/sda2
 > Edite a parte `sda2` no comando acima se essa não for a partição em que seu Windows está instalado.
