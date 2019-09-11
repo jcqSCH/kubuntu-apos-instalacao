@@ -52,7 +52,12 @@ Baixar temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
 
 |  Configurações   |             …             |
 |       ---        |            ---            |
-|  Geral:          |  Segoe WP 14              |
+|  Tema:           |  Shade                    |
+|  Ícones:         |  68                       |
+|  Zoom:           |  125                      |
+
+Dolphin, Terminal, Spotify, Firefox, Chrome, Sublime, KCalc, Writer, Impress, KSysGuard, System Settings
+<br/>
 
 #### 3.2 – Fontes do Sistema:
 |  Configurações   |             …             |
