@@ -17,6 +17,7 @@ Versão testada: Kubuntu 18.04.3 LTS
 
 	sudo apt-get install kde-l10n-ptbr -y && 
 	sudo apt-get install libreoffice-l10n-pt-br -y && 
+	sudo apt-get install libreoffice-style-sifr -y && 
 	sudo apt-get install kubuntu-restricted-extras -y && 
 	sudo apt-get install unace unrar zip unzip p7zip-full p7zip-rar sharutils rar -y && 
 	sudo apt-get install bleachbit -y && 
@@ -77,5 +78,6 @@ Versão testada: Kubuntu 18.04.3 LTS
 > Edite a parte `"$USER"` no comando acima e digite o seu nome de usuário no Kubuntu (sem aspas).
 - Fonte: http://askubuntu.com/questions/288513/cant-move-files-to-the-trash
 
-#### 4.3 — CONFERIR DRIVER DE VÍDEO INSTALADO (INTEL | NVIDIA | AMD)
+#### 4.3 — Conferir o driver de vídeo instalado:
 	lspci -k | grep -EA3 'VGA|3D|Display'
+> O comando `VGA|3D|Display` busca as instalações respectivamente dos drivers (INTEL | NVIDIA | AMD), se existirem.
