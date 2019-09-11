@@ -78,6 +78,8 @@ Versão testada: Kubuntu 18.04.3 LTS
 > Edite a parte `"$USER"` no comando acima e digite o seu nome de usuário no Kubuntu (sem aspas).
 - Fonte: http://askubuntu.com/questions/288513/cant-move-files-to-the-trash
 
+<br/>
+
 #### 4.3 — Conferir o driver de vídeo instalado:
 	lspci -k | grep -EA3 'VGA|3D|Display'
-> O comando `VGA|3D|Display` busca as instalações respectivamente dos drivers (INTEL | NVIDIA | AMD), se existirem.
+> O comando `VGA|3D|Display` busca as instalações dos respectivos drivers (INTEL | NVIDIA | AMD), se existirem.
