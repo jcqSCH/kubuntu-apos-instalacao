@@ -1,4 +1,4 @@
-# KUBUNTU — O que fazer depois de formatar?
+# 🅚UBUNTU — O que fazer depois de formatar?
 Lista de tarefas para executar após a instalação do Kubuntu no computador. <br/>
 Versão testada: Kubuntu 18.04.3 LTS
 
