@@ -35,5 +35,5 @@ Lista de comandos unificados para executar após a instalação do Kubuntu. <br/
 	sudo apt-get install qbittorrent -y && 
 	sudo apt-get install inkscape -y && 
 
-# Configs
+## Configurações
 • PLANK: https://github.com/KenHarkey/plank-themes/archive/master.zip
