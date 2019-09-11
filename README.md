@@ -2,7 +2,7 @@
 
 Lista de comandos unificados para executar após a instalação do Kubuntu. <br/><br/>
 
-## .Deb Packages
+## Pacotes .Deb
 **VSCode:** https://code.visualstudio.com/download <br/>
 **Spotify:** https://www.spotify.com/br/download/linux/ <br/>
 **Google Chrome:** https://www.google.com/chrome/browser/desktop/ <br/><br/>
