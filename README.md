@@ -4,14 +4,14 @@ Versão testada: Kubuntu 18.04.3 LTS
 
 <br/>
 
-## 1 ➜ PACOTES .DEB OU SNAP
+## 1 ➜ BAIXAR PACOTES .DEB OU SNAP
 **VS Code:** https://code.visualstudio.com/download/ <br/> 
 **Spotify:** https://www.spotify.com/br/download/linux/ <br/>
 **Google Chrome:** https://www.google.com/chrome/browser/desktop/
 
 <br/>
 
-## 2 ➜ COMANDOS NO TERMINAL
+## 2 ➜ EXECUTAR COMANDOS NO TERMINAL
 	sudo apt-get update && 
 
 	sudo apt-get install kde-l10n-ptbr -y && 
