@@ -3,7 +3,7 @@
 Lista de aplicações para instalar após a formatação do computador, testado na versão Kubuntu 18.04.3 LTS. <br/><br/>
 
 ## 1 ➜ PACOTES .DEB
-**VSCode:** https://code.visualstudio.com/download <br/>
+**VSCode:** https://code.visualstudio.com/download/ <br/>
 **Spotify:** https://www.spotify.com/br/download/linux/ <br/>
 **Google Chrome:** https://www.google.com/chrome/browser/desktop/ <br/><br/>
 
