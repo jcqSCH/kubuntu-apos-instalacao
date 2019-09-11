@@ -8,7 +8,7 @@ Lista de aplicações para instalar logo após formatação, testado na versão 
 **Google Chrome:** https://www.google.com/chrome/browser/desktop/ <br/><br/>
 
 
-## 2 — COMANDOS NO TERMINAL
+## • 2 — COMANDOS NO TERMINAL
 	sudo apt-get update && 
 
 	sudo apt-get install kde-l10n-ptbr -y && 
