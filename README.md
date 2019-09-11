@@ -1,6 +1,6 @@
-# KUBUNTU • O que fazer após a formatação
+# KUBUNTU • APÓS FORMATAÇÃO
 
-Lista de tarefas para executar após a instalação do Kubuntu. <br/>
+Lista de tarefas para executar após a instalação do Kubuntu no computador. <br/>
 Versão testada: Kubuntu 18.04.3 LTS
 
 <br/>
