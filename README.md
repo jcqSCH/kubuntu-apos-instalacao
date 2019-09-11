@@ -1,6 +1,6 @@
 # Kubuntu
 
-**VSCode download .deb package:** [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+**VSCode .deb package:** [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
 
 	sudo apt-get update && 
