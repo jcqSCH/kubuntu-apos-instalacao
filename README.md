@@ -1,6 +1,6 @@
 # Kubuntu (18.04.3 LTS)
 
-Lista de comandos unificados para executar após a instalação do Kubuntu. <br/>
+Lista de comandos unificados para executar após a instalação do Kubuntu. <br/><br/>
 
 ## .Deb Packages
 **VSCode:** https://code.visualstudio.com/download <br/>
