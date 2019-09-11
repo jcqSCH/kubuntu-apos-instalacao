@@ -104,26 +104,26 @@ Baixar temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
 
 ## 4 ➜ DICAS
 
-#### 4.1 – Abrir pastas como Administrador:
+### 4.1 – Abrir pastas como Administrador:
 	kdesudo dolphin /usr/share/icons
 > Edite a parte `/usr/share/icons` no comando acima, caso queira acessar outro diretório.
 
 <br/>
 
-#### 4.2 – Desmontar a partição do Windows estando logado no Kubuntu:
+### 4.2 – Desmontar a partição do Windows estando logado no Kubuntu:
 	mount -o ro /dev/sda2
 > Edite a parte `sda2` no comando acima se essa não for a partição em que seu Windows está instalado.
 - Fonte: http://askubuntu.com/questions/335909/error-mounting-dev-sda2-at-media
 
 <br/>
 
-#### 4.3 – Conferir o driver de vídeo instalado:
+### 4.3 – Conferir o driver de vídeo instalado:
 	lspci -k | grep -EA3 'VGA|3D|Display'
 > O comando `VGA|3D|Display` busca as instalações dos respectivos drivers `INTEL|NVIDIA|AMD`, se existirem.
 
 <br/>
 
-#### 4.4 – Corrigir bug da lixeira que não permite excluir arquivos:
+### 4.4 – Corrigir bug da lixeira que não permite excluir arquivos:
 	sudo chown -R “$USER” ~/.local/share/Trash
 > Edite a parte `“$USER”` no comando acima e digite o seu nome de usuário no Kubuntu (sem aspas).
 - Fonte: http://askubuntu.com/questions/288513/cant-move-files-to-the-trash
