@@ -1,7 +1,7 @@
 # Kubuntu
 
 **VSCode .deb package:** [https://code.visualstudio.com/download](https://code.visualstudio.com/download) <br/>
-**Spotify .deb package:** [https://www.spotify.com/br/download/linux/](https://www.spotify.com/br/download/linux/) <br/>
+**Spotify .deb package:** [https://www.spotify.com/br/download/linux/](https://www.spotify.com/br/download/linux/) <br/><br/>
 
 	sudo apt-get update && 
 
