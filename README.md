@@ -56,7 +56,7 @@ Baixar temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
 |  Ícones:         |  68                       |
 |  Zoom:           |  125                      |
 
->**Ordem:** Dolphin, Terminal, Spotify, Firefox, Chrome, Sublime, KCalc, Writer, Impress, KSysGuard, System Settings
+>**Ordem:** Dolphin, Terminal, Spotify, Firefox, Chrome, VS Code, KCalc, Writer, Impress, KSysGuard, System Settings
 
 <br/>
 
