@@ -106,12 +106,12 @@ Baixar temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
 ## 4 ➜ DICAS
 
 ### 4.1 – Abrir pastas como Administrador:
-	kdesudo dolphin /usr/share/icons
+	sudo nautilus /usr/share/icons
 > Edite a parte `/usr/share/icons` no comando acima, caso queira acessar outro diretório.
 
 <br/>
 
-### 4.2 – Desmontar a partição do Windows estando logado no Kubuntu:
+### 4.2 – Desmontar a partição do Windows estando logado no Ubuntu:
 	mount -o ro /dev/sda2
 > Edite a parte `sda2` no comando acima se essa não for a partição em que seu Windows está instalado.
 - Fonte: http://askubuntu.com/questions/335909/error-mounting-dev-sda2-at-media
@@ -126,5 +126,28 @@ Baixar temas: https://github.com/KenHarkey/plank-themes/archive/master.zip
 
 ### 4.4 – Corrigir bug da lixeira que não permite excluir arquivos:
 	sudo chown -R “$USER” ~/.local/share/Trash
-> Edite a parte `“$USER”` no comando acima e digite o seu nome de usuário no Kubuntu (sem aspas).
+> Edite a parte `“$USER”` no comando acima e digite o seu nome de usuário no Ubuntu (sem aspas).
 - Fonte: http://askubuntu.com/questions/288513/cant-move-files-to-the-trash
+
+<br/>
+
+### 4.5 – Recuperar o GRUB perdido após uma atualização do Windows (dual boot):
+	bcdedit /set "{bootmgr}" path \EFI\ubuntu\grubx64.efi
+> A partir do Windows, rodar o comando acima no PowerShell como Administrador.
+- Fonte: https://askubuntu.com/questions/655011/windows-10-upgrade-kills-grub-and-boot-repair-doesnt-help
+
+<br/>
+
+### 4.6 – Sumblime Text
+
+	{
+	"color_scheme": "Packages/Panda Syntax Sublime/Panda/panda-syntax.tmTheme",
+	"font_face": "Anonymous Pro Minus",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme",
+	"ui_scale": 1.5
+	}
