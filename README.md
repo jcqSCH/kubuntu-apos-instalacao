@@ -15,31 +15,32 @@ Versão testada: Kubuntu 20.04.1 LTS
 ## 2 ➜ EXECUTAR COMANDOS NO TERMINAL
 	sudo apt-get update && 
 
-	# sudo apt-get install kde-l10n-ptbr -y &&		# JÁ VEM NO KUBUNTU 20.04
-	# sudo apt-get install libreoffice-l10n-pt-br -y &&	# JÁ VEM NO KUBUNTU 20.04
-	# sudo apt-get install libreoffice-style-sifr -y &&	# JÁ VEM NO KUBUNTU 20.04
-	# sudo apt-get install software-properties-common -y &&	# JÁ VEM NO KUBUNTU 20.04
-	# sudo apt-get install bleachbit -y &&			# SEM SUPORTE PARA KUBUNTU 20.04
+	# sudo apt-get install kde-l10n-ptbr -y &&				# JÁ VEM NO KUBUNTU 20.04
+	# sudo apt-get install libreoffice-l10n-pt-br -y &&			# JÁ VEM NO KUBUNTU 20.04
+	# sudo apt-get install libreoffice-style-sifr -y &&			# JÁ VEM NO KUBUNTU 20.04
+	# sudo apt-get install software-properties-common -y &&			# JÁ VEM NO KUBUNTU 20.04
+	# sudo apt-get install bleachbit -y &&					# SEM SUPORTE PARA KUBUNTU 20.04
 	sudo apt-get install kubuntu-restricted-extras -y && 
 	sudo apt-get install unace unrar zip unzip p7zip-full p7zip-rar sharutils rar -y && 
 	sudo apt-get install git-all -y && 
 
 	sudo apt-get update && 
 
-	# sudo add-apt-repository ppa:nemh/systemback -y && # SEM SUPORTE PARA KUBUNTU 20.04
+	# sudo add-apt-repository ppa:nemh/systemback -y && 			# SEM SUPORTE PARA KUBUNTU 20.04
+	sudo add-apt-repository ppa:numix/ppa -y && 
 	sudo add-apt-repository ppa:danielrichter2007/grub-customizer -y && 
 	sudo add-apt-repository ppa:docky-core/stable -y && 
-	sudo add-apt-repository ppa:numix/ppa -y && 
 	sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable -y && 
 	sudo add-apt-repository ppa:inkscape.dev/stable -y && 
 	sudo add-apt-repository ppa:rvm/smplayer -y && 
 
 	sudo apt-get update && 
 
+	# sudo apt-get install systemback -y &&					# SEM SUPORTE PARA KUBUNTU 20.04
+	# sudo apt-get install numix-kde-theme numix-icon-theme-circle numix-icon-theme-square -y && 	# SEM SUPORTE PARA KUBUNTU 20.04
+	sudo apt-get install numix-icon-theme numix-icon-theme-circle
 	sudo apt-get install grub-customizer -y && 
-	sudo apt-get install systemback -y && 
 	sudo apt-get install plank -y && 
-	sudo apt-get install numix-kde-theme numix-icon-theme-circle numix-icon-theme-square -y && 
 	sudo apt-get install qbittorrent -y && 
 	sudo apt-get install inkscape -y && 
 	sudo apt-get install smplayer smplayer-themes smplayer-skins -y && 
