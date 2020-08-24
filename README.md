@@ -1,12 +1,13 @@
 # KUBUNTU: o que fazer depois de formatar?
 Lista de tarefas para executar após a instalação do Kubuntu no computador. <br/>
-Versão testada: Kubuntu 18.04.3 LTS
+Versão testada: Kubuntu 20.04.1 LTS
 
 <br/>
 
 ## 1 ➜ BAIXAR PACOTES .DEB OU SNAP
 **VS Code:** https://code.visualstudio.com/download/ <br/> 
 **Spotify:** https://www.spotify.com/br/download/linux/ <br/>
+**Opera:** https://deb.opera.com/opera/pool/non-free/o/opera-stable/ <br/>
 **Google Chrome:** https://www.google.com/chrome/browser/desktop/
 
 <br/>
